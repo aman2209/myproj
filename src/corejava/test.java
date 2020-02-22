@@ -15,6 +15,7 @@ public class test {
           l.add(1, 6);
           l.add(8, 5);
 		System.out.println(l.get(0));
+		System.out.println("giot hub");
 	}
 
 }
